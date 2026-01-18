@@ -151,6 +151,7 @@ Python, Pandas, NumPy, EDA, Data Analysis, Data Visualization, Seaborn, Matplotl
 
 📬 Connect
 
-LinkedIn: https://www.linkedin.com/in/laxman
+LinkedIn: https://www.linkedin.com/in/laxman-chaudhary-277b342b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
 GitHub: https://github.com/LaxmanChaudhary1295
